@@ -1,0 +1,55 @@
+<!--Marcare un testo plain text di circa 3000 caratteri a
+piacere.
+inserire prologo XML
+marcare la struttura usando gli elementi fin qui descritti in
+particolare marcare tutti i paragrafi usando <p> e la
+struttura editoriale usando <div>
+verificare che sia ben formato con xmllint
+salvare il file XML su github-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<text>
+    <body>
+        <title>Taylor Swift - 1989–2003: childhood and education </title>
+        <div>
+            <p>
+            Taylor Alison Swift was born on December 13, 1989, in West Reading, Pennsylvania. Her father, Scott Kingsley Swift, is a former 
+            stockbroker for Merrill Lynch and her mother, Andrea Gardner Swift (née Finlay), is a former homemaker who previously worked as a mutual
+            fund marketing executive. Her younger brother, Austin, is an actor. She was named after singer-songwriter James Taylor, and has 
+            Scottish and German heritage. Her maternal grandmother, Marjorie Finlay, was an opera singer. 
+            </p>
+        
+            <p>
+            Swift spent her early years on a Christmas tree farm that her father had purchased from one of his clients. Swift identifies as a Christian. She attended preschool and kindergarten
+            at the Alvernia Montessori School, run by the Bernadine Franciscan sisters, before transferring to The Wyndcroft School. The family 
+            moved to a rented house in the suburban town of Wyomissing, Pennsylvania, where Swift attended Wyomissing Area Junior/Senior High School.
+            She spent her summers at the beach in Stone Harbor, New Jersey, and performed in a local coffee shop. 
+            At age nine, Swift became interested in musical theater and performed in four Berks Youth Theatre Academy productions.
+            She also traveled regularly to New York City for vocal and acting lessons.
+            </p>
+        </div>
+
+        <div>
+            <p>
+            Swift later shifted her focus toward country music, inspired by Shania Twain's songs, which made her "want to just run around the block
+            four times and daydream about everything."She spent weekends performing at local festivals and events.
+            After watching a documentary about Faith Hill, Swift felt sure she needed to move to Nashville, Tennessee, to pursue a career in music.
+            She traveled with her mother at age eleven to visit Nashville record labels and submitted demo tapes of Dolly Parton and The Chicks 
+            karaoke covers. She was rejected, however, because "everyone in that town wanted to do what I wanted to do. So, I kept thinking to 
+            myself, I need to figure out a way to be different."
+            </p>
+        
+            <p>
+            When Swift was around 12 years olSd, computer repairman and local musician Ronnie Cremer taught her to play guitar. "Kiss Me" by 
+            Sixpence None the Richer was the first song Swift learned to play on the guitar. Cremer helped with her first efforts as a songwriter, 
+            leading her to write "Lucky You". In 2003, Swift and her parents started working with New York-based talent manager Dan Dymtrow. 
+            With his help, Swift modeled for Abercrombie Fitch as part of their "Rising Stars" campaign, had an original song included on a 
+            Maybelline compilation CD, and attended meetings with major record labels. After performing original songs at an RCA Records showcase, 
+            Swift, then 13 years old, was given an artist development deal and began making frequent trips to Nashville with her mother. 
+            To help Swift enter into the country music scene, her father transferred to Merrill Lynch's Nashville office when she was 14 years old, 
+            and the family relocated to Hendersonville, Tennessee. Swift initially attended Hendersonville High School before transferring to the 
+            Aaron Academy after two years, which better suited her touring schedule through homeschooling. She graduated one year early.
+            </p>
+        </div>
+    </body>
+</text>
