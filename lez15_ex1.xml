@@ -1,0 +1,21 @@
+<!--Utilizzare puntatori, 
+note, 
+lista, 
+glossario marcare nomi, 
+rs,
+term.-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<text>
+    <body>
+        <list type="music">
+            <head>Parts of aguitar:</head>
+            <item>Pickup<note>This device converts string vibrations into electricity, and is embedded in the body of the guitar right beneath the strings.</note></item>
+            <item>Strings</item>
+            <item><term>Fretboard</term></item>
+            <item>Volume control</item>
+            <item><term>Tone</term> control</item>
+        </list>
+    </body>
+</text>
